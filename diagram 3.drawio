@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T08:17:24.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7Kq9whBMIDzCxJIfoXJt" version="21.0.6" type="github"><diagram name="Strona-1" id="rMWJ1AcIpruo_l-YTEQA">5VjbkqM2EP0aHj2FwfjyaGPPplKbjadmtzbJmwwyaLiICDEYvj4tIcAY7GI2nppN5WUGNd2t1tHpIxnNtKPTJ4YS/zfq4lAzdPekmVvNMKa6pcM/YSmUZW4ZlcVjxFW21vBMSlyHKmtGXJx2HDmlISdJ1+jQOMYO79gQYzTvuh1p2J01QR7uGZ4dFPat34nL/cq6NBat/RdMPL+eeTpfVW8iVDurlaQ+cml+ZjJ3mmkzSnn1FJ1sHAr0alyquMcrb5vCGI75mIAnf7vOn/6eTDh5etkbX3dL9m2isryiMFMLzh2fuiWOCRbbRuHPIXOLOMjUKnhRQwMLSsRjFoWPDEXwuMl9wvFzghxhz4ESYPN5FMJoCo8JJTHHbPcKJYt90UWIQnUlBn4N5UKMVG2YcXy6uuhpAyWQENMIc1aAiwow5gr9mn81IfN2M82FsvlnG2nqyogUgbwmd4sxPCiY3wD5ogckdoFyakgZ96lHYxTuWuuG0Sx2sasga30+U5oobF8w54XqH5Rx2kW+mlNMdBtIqItmzME36lf9yxHzML/hZw5vDMMh4uS1W8fdQTZ6vN4z5NA8JoFQAcKi4haf1w6nDGAT3CMgBp/RAYd7mhJOaAwuB8o5jc4c1iHxxAtOkyHg/xWHp0aXw4Y+wOEBCs/fi8FmD9zfeU4wQ0o0WJmTPsnDEDR7hEjco+tXF4jN+4hNZwOQLd4LslkPsm+pwMpG4t8HQjVbXgjk4qOhWn6EPgJarPhDxD9Y9fDP83fbk0pejQo1clHqy3krR3ctrhxCIELqBJXpkYj1b/X7qrD1X1DhVY/1mjFHkWBxyCUe5yN84gBXY/M6Hmo0wAypzd3dREqNHSyuGwMyHRHXrYiDU1Kig8yn1zcUCYO10aztrR5TN04V3Fy/Ort5neBXG3KiP+hTa9lpylpxR++ayr4XqzlzocdjCmy53NamiB/faau309+LF82eaUuLY3Hkmj+Vypmzj1a5+VBryDbwYSlzSfehU3WuGuexdauNSW2YPoD/nrryJi82YbWq7/KXWZKrSQyR5AtySBqgCB6DEEVBnWxEvCmLcHwZPH7amQxjJe4Wn4ClfFMiSyT6C0VFVX6JpKoeKk7eznRBVKAd7zIy5YwG2KahuCRuYxoLFh9B5y9MKXCaxB4YrHb0VR5JE0O/wnwKTD+G8hTxQaZw3Dvf7tAQF/0wWQ30w2qgH5rf5XdviDrxzY7oi8qYfniGcwAxkqWCQdNR7JEtZJNqMjgymiYazb/pA8yk/4o129I2AABpo/WUNAkpzykrC+G1NABFW5F9oHcDIB38CtdFiwg3rwrSbFPbmHmMPVrFFglypWNWzV04BI0quYOTMSpEqoTSqbNGB7XInBJHI3O8J1JvXbc5KkSq2xcpzJGSR1gwqqpqim/EpgTtjNVSOB45g0BlHTgvQrkCKtc9c8qig8r/VL6arzO1fhkD33UGBcz8gRMdhu1nuurG1H7tNHf/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-16T08:17:35.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="I7S2y9agltdkXqgd82AN" version="21.0.6" type="github">
+  <diagram name="Strona-1" id="rMWJ1AcIpruo_l-YTEQA">
+    <mxGraphModel dx="1050" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QhDAwQq--tiQjP2TE8rU-1" value="wchodzenie do budynku" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=90;height=70;" parent="1" vertex="1">
+          <mxGeometry x="260" y="150" width="370" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QhDAwQq--tiQjP2TE8rU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QhDAwQq--tiQjP2TE8rU-2" target="QhDAwQq--tiQjP2TE8rU-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QhDAwQq--tiQjP2TE8rU-2" value="Pracownik firmy" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QhDAwQq--tiQjP2TE8rU-3" value="Otwieranie drzwi" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QhDAwQq--tiQjP2TE8rU-4" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="170" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QhDAwQq--tiQjP2TE8rU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;" parent="1" source="QhDAwQq--tiQjP2TE8rU-5" target="QhDAwQq--tiQjP2TE8rU-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QhDAwQq--tiQjP2TE8rU-9" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QhDAwQq--tiQjP2TE8rU-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.0158" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QhDAwQq--tiQjP2TE8rU-5" value="Wyjątek 3" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QhDAwQq--tiQjP2TE8rU-6" value="&lt;h1&gt;Otwieranie drzwi&lt;/h1&gt;&lt;p&gt;1. Podchodzę do drzwi&lt;/p&gt;&lt;p&gt;2. Naciskam klamkę&lt;/p&gt;&lt;p&gt;3. Pcham drzwi&lt;/p&gt;&lt;p&gt;4. Przechodzę przez drzwi&lt;/p&gt;&lt;p&gt;5. Zamykam za sobą drzwi&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="-90" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="QhDAwQq--tiQjP2TE8rU-10" value="&lt;h1&gt;Wyjątek 3&lt;/h1&gt;&lt;p&gt;Scenariusz 1&lt;/p&gt;&lt;p&gt;1. Ciągnę drzwi&lt;/p&gt;&lt;p&gt;1.1 Jeżeli drzwi się otworzyły, przechodzę do kroku 4., głównego przypadku użycia&lt;/p&gt;&lt;p&gt;Scenariusz 2&lt;/p&gt;&lt;p&gt;2. Otwieram drzwi kluczem&lt;/p&gt;&lt;p&gt;2.1 Jeżeli drzwi się otworzyły, przechodzę do kroku 4.&lt;/p&gt;&lt;p&gt;Scenariusz 3&lt;/p&gt;&lt;p&gt;3. Nie mam klucza, drzwi są zamknięte&lt;/p&gt;&lt;p&gt;3.1 Akcja kończy się&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="-250" width="190" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
