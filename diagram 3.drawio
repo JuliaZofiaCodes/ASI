@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T08:17:35.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="I7S2y9agltdkXqgd82AN" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T08:22:38.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6pfCeRC_pWxuoq8BrwYe" version="21.0.6" type="github">
   <diagram name="Strona-1" id="rMWJ1AcIpruo_l-YTEQA">
     <mxGraphModel dx="1050" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,10 +13,18 @@
         <mxCell id="QhDAwQq--tiQjP2TE8rU-2" value="Pracownik firmy" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="200" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="g0R5WBTFMgbZWstwoS8y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="QhDAwQq--tiQjP2TE8rU-3" target="QhDAwQq--tiQjP2TE8rU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0R5WBTFMgbZWstwoS8y-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g0R5WBTFMgbZWstwoS8y-1">
+          <mxGeometry x="-0.0194" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QhDAwQq--tiQjP2TE8rU-3" value="Otwieranie drzwi" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="260" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QhDAwQq--tiQjP2TE8rU-4" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QhDAwQq--tiQjP2TE8rU-4" value="Funkcja 4" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="170" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QhDAwQq--tiQjP2TE8rU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;" parent="1" source="QhDAwQq--tiQjP2TE8rU-5" target="QhDAwQq--tiQjP2TE8rU-3" edge="1">
@@ -31,10 +39,13 @@
           <mxGeometry x="480" y="340" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QhDAwQq--tiQjP2TE8rU-6" value="&lt;h1&gt;Otwieranie drzwi&lt;/h1&gt;&lt;p&gt;1. Podchodzę do drzwi&lt;/p&gt;&lt;p&gt;2. Naciskam klamkę&lt;/p&gt;&lt;p&gt;3. Pcham drzwi&lt;/p&gt;&lt;p&gt;4. Przechodzę przez drzwi&lt;/p&gt;&lt;p&gt;5. Zamykam za sobą drzwi&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="-90" width="190" height="210" as="geometry" />
+          <mxGeometry x="40" y="-250" width="190" height="210" as="geometry" />
         </mxCell>
         <mxCell id="QhDAwQq--tiQjP2TE8rU-10" value="&lt;h1&gt;Wyjątek 3&lt;/h1&gt;&lt;p&gt;Scenariusz 1&lt;/p&gt;&lt;p&gt;1. Ciągnę drzwi&lt;/p&gt;&lt;p&gt;1.1 Jeżeli drzwi się otworzyły, przechodzę do kroku 4., głównego przypadku użycia&lt;/p&gt;&lt;p&gt;Scenariusz 2&lt;/p&gt;&lt;p&gt;2. Otwieram drzwi kluczem&lt;/p&gt;&lt;p&gt;2.1 Jeżeli drzwi się otworzyły, przechodzę do kroku 4.&lt;/p&gt;&lt;p&gt;Scenariusz 3&lt;/p&gt;&lt;p&gt;3. Nie mam klucza, drzwi są zamknięte&lt;/p&gt;&lt;p&gt;3.1 Akcja kończy się&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="-250" width="190" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="g0R5WBTFMgbZWstwoS8y-2" value="&lt;h1&gt;Funkcja 4: przechodzę przez drzwi&lt;/h1&gt;&lt;p&gt;1. Uważam na próg i framugę&lt;/p&gt;&lt;p&gt;2. Wykonuje liczbę odpowiednich kroków&lt;/p&gt;&lt;p&gt;3. Przechodzę przez drzwi&lt;/p&gt;&lt;p&gt;4. Przechodzę do punktu 5. głównego przypadku użycia&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-250" width="190" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
