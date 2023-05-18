@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T06:53:30.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_bdzGK6u8Sndjj-Qv8o0" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T06:56:28.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="teuBoyw5eXWCVq1d0KIK" version="21.0.6" type="github">
   <diagram name="Strona-1" id="l8majVpfK4OMB6IB9mss">
-    <mxGraphModel dx="2062" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,6 +89,29 @@
         </mxCell>
         <mxCell id="BKGF_uwsbzH7ijVGnFCf-39" value="Czekaj 2 lata" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="475" y="915" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKGF_uwsbzH7ijVGnFCf-41" target="BKGF_uwsbzH7ijVGnFCf-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKGF_uwsbzH7ijVGnFCf-42" target="BKGF_uwsbzH7ijVGnFCf-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-49" value="Nieprawidłowe dane logowania" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BKGF_uwsbzH7ijVGnFCf-48">
+          <mxGeometry x="0.3072" y="3" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-42" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-43" value="Alert o błędnych danych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-310" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-44" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-240" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
