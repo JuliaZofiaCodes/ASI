@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T06:59:42.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.0.6" etag="ipmEW6xFkrSRj5PwSScL" type="github"><diagram name="Strona-1" id="TV8Whq-ncppAXfJfLg0p">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-18T07:15:06.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="G_zLUGqW7q_gPxIA6FnZ" version="21.0.6" type="github">
+  <diagram name="Strona-1" id="TV8Whq-ncppAXfJfLg0p">
+    <mxGraphModel dx="2577" dy="2071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZXSt8-1AJvMDp9_6-37_-1" target="ZXSt8-1AJvMDp9_6-37_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-1" value="Wejdź w zakładkę &quot;zarejestruj się&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZXSt8-1AJvMDp9_6-37_-2" target="ZXSt8-1AJvMDp9_6-37_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="225" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-4" value="" style="ellipse;html=1;shape=endState;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="980" y="435" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZXSt8-1AJvMDp9_6-37_-5" target="ZXSt8-1AJvMDp9_6-37_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-5" value="Wypełnij formularz rejestracji" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-7" value="&lt;h1&gt;Rejestracja w klinice weterynaryjnej&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZXSt8-1AJvMDp9_6-37_-9" target="ZXSt8-1AJvMDp9_6-37_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-16" value="Dane są wpisane prawidłowo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZXSt8-1AJvMDp9_6-37_-14">
+          <mxGeometry x="-0.2921" y="3" relative="1" as="geometry">
+            <mxPoint x="22" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZXSt8-1AJvMDp9_6-37_-9" target="ZXSt8-1AJvMDp9_6-37_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-20" value="Dane są wpisane nieprawidłowo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZXSt8-1AJvMDp9_6-37_-19">
+          <mxGeometry x="-0.3822" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZXSt8-1AJvMDp9_6-37_-13" target="ZXSt8-1AJvMDp9_6-37_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-13" value="Wyświetl informację o wysłaniu e-maila z linkiem rejestracyjnym" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="410" width="143" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZXSt8-1AJvMDp9_6-37_-18" target="ZXSt8-1AJvMDp9_6-37_-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="779" y="-90" />
+              <mxPoint x="320" y="-90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXSt8-1AJvMDp9_6-37_-18" value="Wyświetl alert o występujących w formularzu błędach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="-50" width="143" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
