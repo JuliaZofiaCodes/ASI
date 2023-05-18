@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T06:56:28.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="teuBoyw5eXWCVq1d0KIK" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T06:59:11.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XIzwd7xYPwzhr6D58Nkn" version="21.0.6" type="github">
   <diagram name="Strona-1" id="l8majVpfK4OMB6IB9mss">
     <mxGraphModel dx="2062" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,6 +104,22 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKGF_uwsbzH7ijVGnFCf-42" target="BKGF_uwsbzH7ijVGnFCf-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-55" value="Haslo wygasło" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BKGF_uwsbzH7ijVGnFCf-52">
+          <mxGeometry x="-0.1003" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKGF_uwsbzH7ijVGnFCf-42" target="BKGF_uwsbzH7ijVGnFCf-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-54" value="Prawidłowe dane logowanie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BKGF_uwsbzH7ijVGnFCf-53">
+          <mxGeometry x="-0.0013" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BKGF_uwsbzH7ijVGnFCf-42" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="-480" width="80" height="80" as="geometry" />
         </mxCell>
@@ -112,6 +128,12 @@
         </mxCell>
         <mxCell id="BKGF_uwsbzH7ijVGnFCf-44" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="940" y="-240" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-50" value="Alert o&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
