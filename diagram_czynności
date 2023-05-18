@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T06:24:37.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.0.6" etag="wcZ620uxiYMH7Y7IpGmY" type="github"><diagram name="Strona-1" id="l8majVpfK4OMB6IB9mss">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-18T06:51:26.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="P9FhTUVnZJh39hGmc_IX" version="21.0.6" type="github">
+  <diagram name="Strona-1" id="l8majVpfK4OMB6IB9mss">
+    <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-1" value="&lt;h1&gt;Skręcanie kierownicą&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKGF_uwsbzH7ijVGnFCf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="585" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-3" value="" style="ellipse;html=1;shape=endState;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="575" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-4" value="Wrzucamy kierunek" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-5" value="Skręcamy kierownica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="720" as="sourcePoint" />
+            <mxPoint x="450" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="715" as="sourcePoint" />
+            <mxPoint x="210" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKGF_uwsbzH7ijVGnFCf-17" target="BKGF_uwsbzH7ijVGnFCf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BKGF_uwsbzH7ijVGnFCf-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="590" as="sourcePoint" />
+            <mxPoint x="430" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKGF_uwsbzH7ijVGnFCf-23" target="BKGF_uwsbzH7ijVGnFCf-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-23" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="860" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKGF_uwsbzH7ijVGnFCf-25" target="BKGF_uwsbzH7ijVGnFCf-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-25" value="Skontaktuj się z lekarzem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-26" value="Zapisz się na wizytę" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-29" value="" style="ellipse;html=1;shape=endState;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="810" y="860" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKGF_uwsbzH7ijVGnFCf-31" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="740" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
