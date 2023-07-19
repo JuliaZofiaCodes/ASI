@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T22:12:24.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.6" etag="tfAi0dhMo1lepr1rWlRZ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T00:32:44.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="woQc09nseeK6T1dmbqaw" version="21.3.6" type="github">
   <diagram name="Strona-1" id="0LLe7s4RpF6T6vIi_UMm">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="64XrX1-pvabhn10SiMgF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.369;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="64XrX1-pvabhn10SiMgF-1" target="64XrX1-pvabhn10SiMgF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64XrX1-pvabhn10SiMgF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64XrX1-pvabhn10SiMgF-1" target="64XrX1-pvabhn10SiMgF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64XrX1-pvabhn10SiMgF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64XrX1-pvabhn10SiMgF-1" target="64XrX1-pvabhn10SiMgF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64XrX1-pvabhn10SiMgF-1" value="Epika 2: System logowania w systemie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64XrX1-pvabhn10SiMgF-2" value="Epika 2A: logowanie się do systemu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64XrX1-pvabhn10SiMgF-4" value="Epika 2B: wylogowanie się z systemu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64XrX1-pvabhn10SiMgF-5" value="Epika 2C: ustawienie nowego hasła dla konta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="206" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
