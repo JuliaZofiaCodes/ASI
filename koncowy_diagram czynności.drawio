@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T01:43:46.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6rCsroSbwK_BQjOMXN1o" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T01:50:02.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sIX1ZsKBaEjxRpMRJDcc" version="21.3.6" type="github">
   <diagram name="Strona-1" id="Wl3W5kQO6a2969CGZjCZ">
-    <mxGraphModel dx="2100" dy="3304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="2906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,6 +75,10 @@
         <mxCell id="qH5OalADTIL_PWBiScgu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120" y="-520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1121" y="-630" />
+              <mxPoint x="1121" y="-520" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-27" value="Adres e-mail istnieje w bazie danych i&lt;br&gt;&amp;nbsp;jest powiązany z kontem" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qH5OalADTIL_PWBiScgu-26">
@@ -96,13 +100,22 @@
           <mxGeometry x="740" y="-670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-31" value="Wyświetl informacje użytkownikowi o braku powiązania podanego adresu e-mail z istniejącym kontem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-500" width="250" height="60" as="geometry" />
+          <mxGeometry x="450" y="-500" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-33" target="qH5OalADTIL_PWBiScgu-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-33" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="765" y="-1140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-35" value="System wysyła wiadomość e-mail do użytkownika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-400" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-36" value="Wyświetl informacje użytkownikowi o wysłaniu e-maila z linkiem resetującym hasło" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-500" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-37" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-830" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
