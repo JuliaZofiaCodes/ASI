@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T02:09:00.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="J_MigtqS6Fobxi1BG0W0" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T02:11:47.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Tdf4GEDbaxByKZLcGk0p" version="21.3.6" type="github">
   <diagram name="Strona-1" id="Wl3W5kQO6a2969CGZjCZ">
-    <mxGraphModel dx="3500" dy="2779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,9 +113,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-51">
+        <mxCell id="qH5OalADTIL_PWBiScgu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-51" target="qH5OalADTIL_PWBiScgu-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="80" as="targetPoint" />
+            <mxPoint x="830" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-55" value="Token wygasł" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qH5OalADTIL_PWBiScgu-54">
@@ -130,7 +130,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-57" value="System przekierowuje użytkownika na stronę resetowania hasła" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="80" width="110" height="90" as="geometry" />
+          <mxGeometry x="1340" y="70" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-58" target="qH5OalADTIL_PWBiScgu-60">
           <mxGeometry relative="1" as="geometry" />
@@ -169,13 +169,29 @@
             <mxPoint x="1810" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-74" value="Hasło spełnia wymagania dotyczące długości i złożoności" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qH5OalADTIL_PWBiScgu-71">
+          <mxGeometry x="0.6314" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1410" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-75" value="Hasło nie spełnia wymagania dotyczące długości i złożoności" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qH5OalADTIL_PWBiScgu-72">
+          <mxGeometry x="0.6022" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-70" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-73" value="Alert o wygaśnięciu linku do resetowania hasła" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-76" value="Alert o niespełnieniu wymagań dotyczących długości i złożoności" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="570" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
