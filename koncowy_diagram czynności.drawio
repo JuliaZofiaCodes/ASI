@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T02:04:33.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Dwjz8BFdvDZVgCUgDlsw" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T02:09:00.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="J_MigtqS6Fobxi1BG0W0" version="21.3.6" type="github">
   <diagram name="Strona-1" id="Wl3W5kQO6a2969CGZjCZ">
-    <mxGraphModel dx="724" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3500" dy="2779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,8 +126,56 @@
         <mxCell id="qH5OalADTIL_PWBiScgu-51" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="-80" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-57" target="qH5OalADTIL_PWBiScgu-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-57" value="System przekierowuje użytkownika na stronę resetowania hasła" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="80" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-58" target="qH5OalADTIL_PWBiScgu-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-58" value="Użytkownik wprowadza nowe hasło dwukrotnie w pola" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="200" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-60" target="qH5OalADTIL_PWBiScgu-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-63" value="Hasła są identyczne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qH5OalADTIL_PWBiScgu-62">
+          <mxGeometry x="0.5881" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-60" target="qH5OalADTIL_PWBiScgu-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-68" value="Hasła są różne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qH5OalADTIL_PWBiScgu-66">
+          <mxGeometry x="0.575" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-60" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-69" value="Alert o niezgodności obu haseł" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="450" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1810" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-70" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="450" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
