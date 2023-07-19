@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T02:15:06.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EG9CDsEoDnKGA4tFUvLk" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T02:16:51.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="87NXynVEHb0LEmusDNwy" version="21.3.6" type="github">
   <diagram name="Strona-1" id="Wl3W5kQO6a2969CGZjCZ">
-    <mxGraphModel dx="3000" dy="2549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7000" dy="4389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry x="995" y="-500" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-37" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="880" width="30" height="30" as="geometry" />
+          <mxGeometry x="1790" y="700" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-41" value="Wejdź na konto e-mail podane w formularzu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="-330" width="120" height="60" as="geometry" />
@@ -161,6 +161,14 @@
         <mxCell id="qH5OalADTIL_PWBiScgu-60" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1355" y="320" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-69" target="qH5OalADTIL_PWBiScgu-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="495" />
+              <mxPoint x="1050" y="223" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-69" value="Alert o niezgodności obu haseł" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1135" y="450" width="110" height="90" as="geometry" />
         </mxCell>
@@ -174,7 +182,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-70">
+        <mxCell id="qH5OalADTIL_PWBiScgu-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-70" target="qH5OalADTIL_PWBiScgu-76">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1410" y="560" as="targetPoint" />
           </mxGeometry>
@@ -198,8 +206,19 @@
         <mxCell id="qH5OalADTIL_PWBiScgu-73" value="Alert o wygaśnięciu linku do resetowania hasła" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-76" target="qH5OalADTIL_PWBiScgu-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="640" />
+              <mxPoint x="970" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-76" value="Alert o niespełnieniu wymagań dotyczących długości i złożoności" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1355" y="570" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-77" target="qH5OalADTIL_PWBiScgu-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-77" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;wyświetla użytkownikowi komunikat potwierdzający udane przywrócenie hasła.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="570" width="190" height="80" as="geometry" />
