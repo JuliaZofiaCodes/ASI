@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T01:50:02.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sIX1ZsKBaEjxRpMRJDcc" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T01:55:37.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jBlR8vaJcQbRyVJFNget" version="21.3.6" type="github">
   <diagram name="Strona-1" id="Wl3W5kQO6a2969CGZjCZ">
-    <mxGraphModel dx="1235" dy="2906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,47 +9,6 @@
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-2" value="Wprowadź swój adres e-mail&amp;nbsp;powiązanym z kontem&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="-850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-9" target="qH5OalADTIL_PWBiScgu-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-4" value="Nieprawidłowe dane logowania" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qH5OalADTIL_PWBiScgu-3">
-          <mxGeometry x="0.3072" y="3" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-9" target="qH5OalADTIL_PWBiScgu-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-6" value="Haslo wygasło" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qH5OalADTIL_PWBiScgu-5">
-          <mxGeometry x="-0.1003" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-9" target="qH5OalADTIL_PWBiScgu-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1430" y="-1300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-8" value="Prawidłowe dane logowanie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qH5OalADTIL_PWBiScgu-7">
-          <mxGeometry x="-0.0013" relative="1" as="geometry">
-            <mxPoint x="-27" y="110" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="-1470" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-10" value="Alert o błędnych danych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="-1210" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="-1210" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-12" value="Alert o nieaktualnych danych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1625" y="-1210" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qH5OalADTIL_PWBiScgu-13" value="Autoryzacja w systemie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="-1210" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-14" target="qH5OalADTIL_PWBiScgu-2">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +33,7 @@
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5OalADTIL_PWBiScgu-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1120" y="-520" as="targetPoint" />
+            <mxPoint x="1120" y="-500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1121" y="-630" />
               <mxPoint x="1121" y="-520" />
@@ -109,13 +68,25 @@
           <mxGeometry x="765" y="-1140" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-35" value="System wysyła wiadomość e-mail do użytkownika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="-400" width="250" height="60" as="geometry" />
+          <mxGeometry x="850" y="-460" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-36" value="Wyświetl informacje użytkownikowi o wysłaniu e-maila z linkiem resetującym hasło" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="-500" width="250" height="60" as="geometry" />
+          <mxGeometry x="1120" y="-460" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qH5OalADTIL_PWBiScgu-37" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-830" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="-500" as="sourcePoint" />
+            <mxPoint x="1370" y="-500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qH5OalADTIL_PWBiScgu-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="-350" as="sourcePoint" />
+            <mxPoint x="1370" y="-350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
